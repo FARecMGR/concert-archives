@@ -1,0 +1,15 @@
+CSV Comparison Summary (csvdiff)
+========================================
+
+Core CSV: archive-template.csv
+New CSV: DART_export_20261109_143311.csv
+
+Column handling:
+Both files have the same metadata columns.
+
+Results:
+  • 161 new records (in new file only)
+  • 1 missing in new (in core file only)
+  • 0 changed records (different values)
+
+Detailed results: csvdiff_result_20261109_143322.json
